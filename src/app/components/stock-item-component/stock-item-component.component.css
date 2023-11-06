@@ -1,0 +1,15 @@
+.stock-container{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:10px;
+    margin: 5px;
+}
+
+.stock-container .name h3 .stock-container .name h4{
+    display: inline-block;
+}
+
+img{
+    width: 15%;
+    height: auto;
+}

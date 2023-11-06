@@ -1,0 +1,16 @@
+@media (max-width: 480px) {
+    a {
+      color: black;
+    }
+  }
+  
+  @media (min-width: 481px) and (max-width: 1024px) {
+    a {
+      color: black;
+    }
+  }
+  
+
+footer{
+    border:1px solid red;
+}

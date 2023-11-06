@@ -1,0 +1,45 @@
+#mainNav {
+    background-color: white;
+  }
+  
+  #mainNav .navbar-toggler {
+    padding: 0.75rem;
+    font-family: Avant Garde Book;
+    font-size: 0.75rem;
+    color: white;
+    text-transform: uppercase;
+    background-color: #004a98;
+    border: 0;
+  }
+  
+  #mainNav .navbar-brand {
+    color: #004a98;
+    font-family: Avant Garde Book;
+    font-weight: 700;
+    letter-spacing: 0.0625em;
+    text-transform: uppercase;
+  }
+  
+  #mainNav .navbar-brand img {
+    height: 3em;
+  }
+  
+  #mainNav .navbar-nav .nav-item .nav-link {
+    font-family: Avant Garde Book;
+    font-size: 0.95rem;
+    color: black;
+    letter-spacing: 0.0625em;
+  }
+  
+  #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #004a98;
+  }
+  
+  .nav-item {
+    padding-right: 30px;
+  }
+
+  nav{
+    border: 1px solid black;
+  }
+  
